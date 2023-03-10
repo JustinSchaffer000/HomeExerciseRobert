@@ -1,0 +1,4 @@
+django >= 4.1.7
+faker >= 5.0.0
+progress >= 1.6
+pytz >= 2022.7.1
